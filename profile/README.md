@@ -2,7 +2,7 @@
 
 SmartBoard is a development and educational platform designed to facilitate learning and project development in hardware programming languages such as VHDL, Verilog, and SystemVerilog. Aimed at demystifying the complexities of hardware design and simplifying the process of FPGA (Field-Programmable Gate Array) interfacing, this platform stands as a crucial tool in both educational and development spheres. It enables the swift implementation of support for various interfaces and the testing of preliminary versions or concepts of entire System on Module (SOM) setups, truly embodying the essence of Rapid Prototyping.
 
-![Audio Effects and Filters Development on SmartBoard](.github/profile/sb_v1_xp2_overview.jpg)
+![Audio Effects and Filters Development on SmartBoard](profile/sb_v1_xp2_overview.jpg)
 
 The hardware concept of SmartBoard, akin to Arduino, features a main board and a multitude of modules that can be swiftly connected in various ways. This modularity not only facilitates quick expansions but also significantly enhances the educational experience by allowing educators to demonstrate numerous project configurations, design principles, and then move to labs where these systems are brought to life.
 
