@@ -41,11 +41,10 @@ This repository contains the design and implementation details of the Control In
 Designed for seamless interfacing with FPGA on the SmartBoard platform, this module provides a microSD card slot to facilitate easy data storage and retrieval. It's an excellent resource for learning about microSD interfacing and for practical data management applications.  
 [Go to repo](https://github.com/SmartBoard-V1/expansion_module__micoSD)
 
-
-
 ### Expansion Module: Triple I2C
-*Opis...*  
-[Link do repozytorium](#)
+This module enhances Smartboard prototyping capabilities by offering three independent I2C outputs, enabling management of multiple I2C devices simultaneously. It integrates easily with Smartboard's single connectors, supporting a variety of connectivity options including JST, GROVE, and GOLD PIN headers for oscilloscope bus monitoring. It's versatile for connecting sensors, memory modules, RTCs, and other I2C devices, also serving as an educational tool for learning about hardware I2C interfaces.  
+[Go to repo](https://github.com/SmartBoard-V1/expansion_module_triple_I2C)
+
 
 ### Expansion Module: SPI Flash
 *Opis...*  
