@@ -55,8 +55,8 @@ The BLE BMD330AR Expansion Module features the BMD-330-A-R, a Bluetooth 5.0 Low 
 
 
 ### Expansion Module: Oscillators
-*Opis...*  
-[Link do repozytorium](#)
+*...*  
+[Go to repo](https://github.com/SmartBoard-V1/expansion_module_oscillators)
 
 ### Expansion Module: Dual Rotary Encoder
 This module is centered around the design and implementation of a Dual Encoder Module, utilizing two EC12E24204A8 encoders paired with an ATtiny48 microcontroller for precise rotational input control. As an expansion for the SmartBoard, it seamlessly connects through a single connector, offering a versatile solution for a variety of applications. It features SPI/UART communication for flexible data transfer and is programmable via connector signals for easy setup and configuration.  
