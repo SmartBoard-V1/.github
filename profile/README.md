@@ -34,8 +34,8 @@ The Bluetooth RN42-I/RM Expansion Module offers a compact, low power solution fo
 [go to repo](https://github.com/SmartBoard-V1/expansion_module_BT_RN42)
 
 ### Expansion Module: SW8 BTN4
-*Opis...*  
-[Link do repozytorium](#)
+This repository contains the design and implementation details of the Control Input Module, which features an 8-position rotary switch, 4 buttons, and a single digit 7-segment display, all powered by an ATtiny48 microcontroller. Designed as a versatile control interface for smartboard applications, it connects through two smartboard connectors to offer enhanced functionality.  
+[Go to repo](https://github.com/SmartBoard-V1/expansion_module_sw8_btn4)
 
 ### Expansion Module: MicroSD
 *Opis...*  
