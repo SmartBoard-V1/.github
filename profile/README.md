@@ -22,12 +22,12 @@ By joining the SmartBoard community, developers and educators can contribute to 
 SmartBoard's versatility is significantly enhanced by its range of expansion modules, each designed to add specific functionalities and interfaces to the platform. Below is an overview of the available modules along with placeholders for their descriptions and links to their respective repositories.
 
 ### Expansion Module: Audio Line-In
-*Opis...*  
-[Link do repozytorium](#)
+This module, featuring the CS5343 audio ADC, enables high-quality audio recording and processing with features like high sample rates up to 192 kHz, low power consumption, and a compact size for easy integration. It connects via an I2S interface, making it perfect for digital audio capture in various designs.  
+[Link do repozytorium](https://github.com/expansion_module_audio_line_in)
 
 ### Expansion Module: ARDUINO UNO
-*Opis...*  
-[Link do repozytorium](#)
+Fully compatible with Arduino UNO, this expansion module is designed to enhance FPGA system operations within the smartboard ecosystem. It supports UART and I2C communication, along with interrupt handling, making it a versatile tool for debugging, configuring, and controlling hardware projects on FPGA. Programmed via USB, it simplifies firmware updates and configurations.  
+[Link do repozytorium](https://github.com/expansion_module_ARDUINO_UNO)
 
 ### Expansion Module: BT RN42
 *Opis...*  
