@@ -49,10 +49,10 @@ This module enhances Smartboard prototyping capabilities by offering three indep
 Designed to interface with FPGA on the SmartBoard platform, this module provides an SPI interface for connecting flash memory, making it a versatile tool for both data storage and SPI flash interfacing learning experiences. It efficiently integrates with a single socket on the SmartBoard, enhancing the board's capabilities without compromising on space or connectivity.  
 [Go to repo](https://github.com/SmartBoard-V1/expansion_module_spi_flash)
 
-
 ### Expansion Module: BLE BMD330AR
-*Opis...*  
-[Link do repozytorium](#)
+The BLE BMD330AR Expansion Module features the BMD-330-A-R, a Bluetooth 5.0 Low Energy module ideal for IoT and automation applications. It offers efficient wireless communication with a 200m range, low power consumption, and multiple interfaces including SPI, UART, I2C, GPIO, PWM, and PDM. Compact in size, it connects to the SmartBoard through a single slot, supporting advanced connectivity for embedded solutions.  
+[Go to repo](https://github.com/SmartBoard-V1/expansion_module_BLE_BMD330AR)
+
 
 ### Expansion Module: Oscillators
 *Opis...*  
