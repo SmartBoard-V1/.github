@@ -16,3 +16,48 @@ A prime example of SmartBoard's capabilities is its configuration for developing
 ![Audio Effects and Filters Development on SmartBoard](SmartBoardV1/media/example_audio.png)
 
 By joining the SmartBoard community, developers and educators can contribute to the platform's evolution, share their projects, and leverage a collective repository of knowledge and resources. This collaborative environment not only accelerates individual project development but also enriches the learning experience for all users.
+
+## Expansion Modules Overview
+
+SmartBoard's versatility is significantly enhanced by its range of expansion modules, each designed to add specific functionalities and interfaces to the platform. Below is an overview of the available modules along with placeholders for their descriptions and links to their respective repositories.
+
+### Expansion Module: Audio Line-In
+*Opis...*  
+[Link do repozytorium](#)
+
+### Expansion Module: ARDUINO UNO
+*Opis...*  
+[Link do repozytorium](#)
+
+### Expansion Module: BT RN42
+*Opis...*  
+[Link do repozytorium](#)
+
+### Expansion Module: SW8 BTN4
+*Opis...*  
+[Link do repozytorium](#)
+
+### Expansion Module: MicroSD
+*Opis...*  
+[Link do repozytorium](#)
+
+### Expansion Module: Triple I2C
+*Opis...*  
+[Link do repozytorium](#)
+
+### Expansion Module: SPI Flash
+*Opis...*  
+[Link do repozytorium](#)
+
+### Expansion Module: BLE BMD330AR
+*Opis...*  
+[Link do repozytorium](#)
+
+### Expansion Module: Oscillators
+*Opis...*  
+[Link do repozytorium](#)
+
+### Expansion Module: Dual Rotary Encoder
+*Opis...*  
+[Link do repozytorium](#)
+
