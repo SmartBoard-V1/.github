@@ -38,8 +38,10 @@ This repository contains the design and implementation details of the Control In
 [Go to repo](https://github.com/SmartBoard-V1/expansion_module_sw8_btn4)
 
 ### Expansion Module: MicroSD
-*Opis...*  
-[Link do repozytorium](#)
+Designed for seamless interfacing with FPGA on the SmartBoard platform, this module provides a microSD card slot to facilitate easy data storage and retrieval. It's an excellent resource for learning about microSD interfacing and for practical data management applications.  
+[Go to repo](https://github.com/SmartBoard-V1/expansion_module__micoSD)
+
+
 
 ### Expansion Module: Triple I2C
 *Opis...*  
