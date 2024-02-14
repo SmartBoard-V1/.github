@@ -45,10 +45,10 @@ Designed for seamless interfacing with FPGA on the SmartBoard platform, this mod
 This module enhances Smartboard prototyping capabilities by offering three independent I2C outputs, enabling management of multiple I2C devices simultaneously. It integrates easily with Smartboard's single connectors, supporting a variety of connectivity options including JST, GROVE, and GOLD PIN headers for oscilloscope bus monitoring. It's versatile for connecting sensors, memory modules, RTCs, and other I2C devices, also serving as an educational tool for learning about hardware I2C interfaces.  
 [Go to repo](https://github.com/SmartBoard-V1/expansion_module_triple_I2C)
 
-
 ### Expansion Module: SPI Flash
-*Opis...*  
-[Link do repozytorium](#)
+Designed to interface with FPGA on the SmartBoard platform, this module provides an SPI interface for connecting flash memory, making it a versatile tool for both data storage and SPI flash interfacing learning experiences. It efficiently integrates with a single socket on the SmartBoard, enhancing the board's capabilities without compromising on space or connectivity.  
+[Go to repo](https://github.com/SmartBoard-V1/expansion_module_spi_flash)
+
 
 ### Expansion Module: BLE BMD330AR
 *Opis...*  
